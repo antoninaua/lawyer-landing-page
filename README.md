@@ -33,6 +33,11 @@ To contribute to the Lawyer Landing Page or make modifications, follow these ste
 5. Open a pull request to merge your changes into the main repository.
 
 
+## License
+
+This project is released without any license. You are free to use, modify, and distribute the code as you see fit.
+
+
 
 
 
